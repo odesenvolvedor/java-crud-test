@@ -1,4 +1,4 @@
-package br.com.javaweb.jdbc.teste;
+package br.com.javaweb.jdbc.test;
 
 import br.com.javaweb.jdbc.ConnectionFactory;
 import java.sql.Connection;
