@@ -21,7 +21,9 @@ public class TestaLista {
             System.out.println("Nome: " + contato.getNome());
             System.out.println("Email: " + contato.getEmail());
             System.out.println("Endereço: " + contato.getEndereco());
-            System.out.println("Data de Nascimento: " + contato.getDataNascimento().getTime() + "\n");            
+            System.out.println("Data de Nascimento: "
+                               + contato.getDataNascimento().getTime()
+                               + "\n");            
         }        
     }
     
@@ -30,7 +32,9 @@ public class TestaLista {
             System.out.println("Nome: " + contato.getNome());
             System.out.println("Email: " + contato.getEmail());
             System.out.println("Endereço: " + contato.getEndereco());
-            System.out.println("Data de Nascimento: " + contato.getDataNascimento().getTime() + "\n");            
+            System.out.println("Data de Nascimento: "
+                               + contato.getDataNascimento().getTime()
+                               + "\n");            
         });
     }
     
